@@ -7,15 +7,15 @@ layout: default
 
 My name is Giorgos Grigorakos <span class="highlight">Giorgos Grigorakos</span>, I live in Thessaloniki, Greece and I currently study <span class="highlight">Physics</span>.
 I'm 22 years old and I enjoy web development, deep learning and various random projects.  
-I'm currently working as an intern for the IT department of Aristotle University as part of the  <span class="links">Universis</span> project.  
+I'm currently working as an intern for the IT department of Aristotle University as part of the  [Universis](https://gitlab.com/universis) project.  
 
 ## repos 
 {: class="header"}
 
 <span class="underlines">\# some of my old & current repos. </span>   
-~<span class="links">Data Syncer</span> syncs values of a local file using Google Sheets as a free, easily user-readable online database.  
-~<span class="links">Fb Event Crawler</span> grabs info from movie related Facebook events and catalogs them.  
-~<span class="links">Fb Poster Webapp</span> creates facebook posts, through a web app, using a Google sheet as an input.  
+~[Data Syncer](https://github.com/GeorgeGrig/Data-Syncer) syncs values of a local file using Google Sheets as a free, easily user-readable online database.  
+~[Fb Event Crawler](https://github.com/GeorgeGrig/FB-Event-Crawler) grabs info from movie related Facebook events and catalogs them.  
+~[Fb Poster Webapp](https://github.com/GeorgeGrig/Facebook-Poster-WebApp) creates facebook posts, through a web app, using a Google sheet as an input.  
 
 ## skills
 {: class="header"}
@@ -27,6 +27,6 @@ Python, CSS, HTML, Javascript, Angular, Flask, TeX, Matlab, git, Photoshop, Fusi
 {: class="header"}
 
 <span class="underlines"># just some random projects I do from time to time.</span>  
-~<span class="links">Guitar restoration</span>  
-~<span class="links">Workbench</span>  
-~<span class="links">Steampunk lamp</span>  
+~[Guitar restoration](./posts/guitar-restoration)  
+~[Workbench](./posts/workbench)  
+~[Steampunk lamp](./posts/steampunk-lamp)  
