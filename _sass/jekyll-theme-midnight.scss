@@ -98,6 +98,18 @@ strong {
   color: rgb(36, 75, 76);
 }
 
+
+.footer{
+  text-align: center;
+}
+
+.important{
+  color:rgb(208, 51, 68);
+}
+
+.seperator{
+  color:rgb(134, 45, 122);
+}
 section img {
   max-width: 100%;
 }
@@ -161,6 +173,17 @@ hr {
   height: 3px;
   background: transparent url('../images/hr.gif') center center repeat-x;
   margin: 0 0 20px;
+}
+
+hr2 {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  border-color: rgb(210, 33, 167);
 }
 
 dt {
