@@ -80,7 +80,7 @@ strong {
 }
 
 .wrapper {
-  max-width:650px;
+  max-width:750px;
   margin:0 auto;
   position:relative;
   padding: 0 20px;
@@ -105,6 +105,15 @@ strong {
 
 .footer{
   text-align: center;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  color: rgb(188, 152, 10);
+  filter: invert(53%) sepia(53%) saturate(2447%) hue-rotate(23deg) brightness(102%) contrast(92%);
 }
 
 .important{
