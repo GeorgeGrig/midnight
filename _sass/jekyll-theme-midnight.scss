@@ -3,14 +3,14 @@
 @import "rouge-base16-dark.scss";
 
 body {
-  padding:0px 0 20px 0px;
+  padding:0px 0 2px 0px;
   margin: 0px;
   font:14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#f0e7d5;
   font-weight: normal;
-  background: #252525;
+  background: #251f24;
   background-attachment: fixed !important;
-  background: linear-gradient(#2a2a29, #1c1c1c);
+  /*background: linear-gradient(#2a2a29, #1c1c1c);*/
 }
 
 h1, h2, h3, h4, h5, h6, h7 {
@@ -80,10 +80,14 @@ strong {
 }
 
 .wrapper {
-  max-width:750px;
-  margin:0 auto;
+  max-width:650px;
+  margin-top: 5px;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: auto;
   position:relative;
-  padding: 0 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .header {
@@ -283,12 +287,12 @@ section {
   max-width:650px;
   padding: 30px 0px 50px 0px;
   margin: 20px 0;
-  margin-top: 70px;
-
+  margin-top: auto;
+  margin-bottom: auto;
   #title {
     border: 0;
     outline: none;
-    margin: 0 0 50px 0;
+    margin: 0 0 10px 0;
     padding: 0 0 5px 0;
 
     h1 {
