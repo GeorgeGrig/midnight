@@ -90,6 +90,23 @@ strong {
   padding-right: 20px;
 }
 
+.form-group {
+  color: rgb(188, 152, 10);
+  input[type=text],input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgb(134, 45, 122);
+    border-radius: 4px;
+    background-color:#251f24;
+    color: #f0e7d5;
+  }
+  input[type=text]:focus {
+    border: 2px solid rgb(233, 56, 209);
+  }
+}
+
 .header {
   color:	rgb(31, 169, 173);
 }
