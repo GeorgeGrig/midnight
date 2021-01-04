@@ -22,13 +22,13 @@ I also work as an intern for the IT department of Aristotle University as part o
 ## skills
 {: class="header"}
 
-<span class="underlines">\# this is a list of my programming and general skills.</span>   
+<span class="underlines">\# a list of my programming and general skills.</span>   
 Python, CSS, HTML, Javascript, Angular, Flask, TeX, Matlab, git, Photoshop, Fusion 360, Microsoft office  
 
 ## projects
 {: class="header"}
 
-<span class="underlines"># just some random projects I do from time to time.</span>  
+<span class="underlines"># some random projects I do from time to time.</span>  
 ~[Guitar restoration](./posts/guitar-restoration)  
 ~[Workbench](./posts/workbench)  
 ~[Steampunk lamp](./posts/steampunk-lamp)  
