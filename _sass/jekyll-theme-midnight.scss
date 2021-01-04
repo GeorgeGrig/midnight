@@ -92,7 +92,7 @@ strong {
 
 .form-group {
   color: rgb(188, 152, 10);
-  input[type=text],input[type=email] {
+  input[type=text],input[type=email],textarea {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
@@ -101,10 +101,22 @@ strong {
     border-radius: 4px;
     background-color:#251f24;
     color: #f0e7d5;
+    resize: vertical;
   }
-  input[type=text]:focus {
+  input[type=text]:focus,input[type=email]:focus,textarea:focus {
     border: 2px solid rgb(233, 56, 209);
   }
+}
+
+.g-recaptcha{
+  background-color:rgb(188, 152, 10);
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid rgb(134, 45, 122);
+  border-radius: 4px;
+  cursor: pointer;
 }
 
 .header {
