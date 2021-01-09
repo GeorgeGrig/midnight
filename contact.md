@@ -10,7 +10,7 @@ permalink: /contact/
       <div class="form-group">
         <label for="InputEmail" required="required">Email address</label>
         <br>
-        <input type="email" name="email" class="form-control" id="InputEmail" aria-describedby="emailHelp" placeholder="Your email address here so I can get back to you">
+        <input type="email" name="email" class="form-control" id="InputEmail" aria-describedby="emailHelp" placeholder="Your email address">
       </div>
       <div class="form-group">
         <label for="exampleInputName">Name</label>
@@ -20,7 +20,7 @@ permalink: /contact/
       <div class="form-group">
         <label for="Input" required="required">Subject</label>
         <br>
-        <textarea type="text" name="input" class="form-control" id="Input" aria-describedby="emailHelp" placeholder="Reason you are contacting me" required="required"></textarea>
+        <textarea type="text" name="input" class="form-control" id="Input" aria-describedby="emailHelp" placeholder="Subject" required="required"></textarea>
       </div>
       <br>
       <button  type="submit" class="g-recaptcha" data-sitekey="6LfOpiAaAAAAACxkWlByx6yRTsrgJO08n3bmGgGP" data-callback='onSubmit'>Submit</button>
