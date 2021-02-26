@@ -23,7 +23,7 @@ I also work as an intern for the IT department of Aristotle University as part o
 {: class="header"}
 
 <span class="underlines">\# a list of my programming and general skills.</span>   
-Python, CSS, HTML, Javascript, Angular, Flask, TeX, Matlab, git, Photoshop, Fusion 360, Microsoft office  
+Python, CSS, HTML, Javascript, Angular, Flask, TeX, Matlab, git, Photoshop, Fusion 360, Microsoft Office  
 
 ## projects
 {: class="header"}
@@ -33,3 +33,4 @@ Python, CSS, HTML, Javascript, Angular, Flask, TeX, Matlab, git, Photoshop, Fusi
 ~[Workbench](./posts/workbench)  
 ~[Steampunk lamp](./posts/steampunk-lamp)  
 ~[More...](/projects) 
+<div><theme>Site theme loosely based on hopscotch editor theme</theme></div>
