@@ -6,7 +6,7 @@ layout: default
 {: class="header"}
 
 My name is <span class="highlight">Giorgos Grigorakos</span> and I currently study <span class="highlight">Physics</span> in Thessaloniki, Greece.  
-I'm 22 years old and I enjoy web development, machine learning and ~~wasting my time~~ doing random projects.  
+I'm 23 years old and I enjoy web development, machine learning and ~~wasting my time~~ doing random projects.  
 I also work as an intern for the IT department of Aristotle University as part of the  [Universis](https://gitlab.com/universis) project.  
 
 ## repos 
@@ -33,4 +33,4 @@ Python, CSS, HTML, Javascript, Angular, Flask, TeX, Matlab, git, Photoshop, Fusi
 ~[Workbench](./posts/workbench)  
 ~[Steampunk lamp](./posts/steampunk-lamp)  
 ~[More...](/projects) 
-<div><theme>Site theme loosely based on hopscotch editor theme</theme></div>
+<div><theme>Site theme loosely based on the hopscotch theme</theme></div>
