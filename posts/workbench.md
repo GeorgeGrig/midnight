@@ -22,6 +22,7 @@ Afterwards I sanded and coated the pine wood.
 Next I designed and 3d printed mounts for my most used tools.
 <img src="..\assets\images\workbench\final.jpeg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
 <img src="..\assets\images\workbench\mistaked.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+<subtitle>Learning from past mistakes...</subtitle>
 After a while I made some ugrades and added some shelves.  
 <img src="..\assets\images\workbench\final1.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
 
