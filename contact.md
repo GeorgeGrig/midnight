@@ -23,5 +23,5 @@ permalink: /contact/
         <textarea type="text" name="input" class="form-control" id="Input" aria-describedby="emailHelp" placeholder="Subject" required="required"></textarea>
       </div>
       <br>
-      <button  type="submit" class="g-recaptcha" data-sitekey="6LfjyygbAAAAAMU1gHDUEini14IigLICKe0vST_E" data-callback='onSubmit'>Submit</button>
+      <button  type="submit" class="g-recaptcha" data-sitekey="6Ld72igbAAAAAC48ufZ8QvQbcdr6ry2G_748r5rh" data-callback='onSubmit'>Submit</button>
     </form>
