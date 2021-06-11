@@ -7,7 +7,7 @@ layout: default
 
 My name is <span class="highlight">Giorgos Grigorakos</span> and I currently study <span class="highlight">Physics</span> in Thessaloniki, Greece.  
 I'm 23 years old and I enjoy web development, machine learning and ~~wasting my time~~ doing random projects.  
-I also work as an intern for the IT department of Aristotle University as part of the  [Universis](https://gitlab.com/universis) project.  
+I also work ~~as an intern~~ for the IT department of Aristotle University as part of the  [Universis](https://gitlab.com/universis) project.  
 
 ## repos 
 {: class="header"}
@@ -16,7 +16,7 @@ I also work as an intern for the IT department of Aristotle University as part o
 ~[Facebook Event Crawler](https://github.com/GeorgeGrig/FB-Event-Crawler) grabs info from movie related Facebook events and catalogs them.  
 ~[Patient Diagram Maker](https://github.com/GeorgeGrig/Patient-diagram-maker) A *badly written* temparature-day-medication diagram maker that can be used to visualise data.   
 ~[Facebook Poster Webapp](https://github.com/GeorgeGrig/Facebook-Poster-WebApp) creates facebook posts, through a "web app", using a Google sheet as an input.  
-~[Rss Feed Extractor](https://github.com/GeorgeGrig/Rss-feed-extractor) extracts youtube rss feeds urls from the opml file and turns 100 rss feeds into 1 with the help of rss mix.  
+~[Rss Feed Extractor](https://github.com/GeorgeGrig/Rss-feed-extractor) extracts youtube rss feeds urls from the Google backup json file and turns 100 rss feeds into 1 with the help of rss mix.  
 ~[More...](https://github.com/GeorgeGrig?tab=repositories)  
 
 ## skills
